@@ -1,6 +1,7 @@
 ---
 title: "an awesome title"
 date: 2018-08-27
+---
 author: Eric S
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -13,4 +14,4 @@ github_username:  your-github-handle
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
----
+
